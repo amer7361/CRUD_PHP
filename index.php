@@ -123,7 +123,7 @@
                      </div>  
                 <div class="mb-3">
                     <label for="text" class="form-label">Fecha de nacimiento:</label>
-                    <input type="datetime" class="form-control" id="txt_fecha_nacimiento" name="txt_fecha_nacimiento" placeholder="Ingrese fecha de nacimiento" required>
+                    <input type="date" class="form-control" id="txt_fecha_nacimiento" name="txt_fecha_nacimiento" placeholder="Ingrese fecha de nacimiento" required>
                     </div>
                     <button type="submit" class="btn btn-primary" name="btn_agregar" id="btn_agregar" value="Agregar">Agregar</button>
                     <button type="submit" class="btn btn-warning" name="btn_modificar" id="btn_modificar" value="Modificar">Modificar</button>
